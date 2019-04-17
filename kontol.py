@@ -5,7 +5,6 @@
 
 import os
 import sys
-import bs4
 import random
 import requests
 from getpass import getpass
