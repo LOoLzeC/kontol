@@ -8,8 +8,6 @@ import sys
 import bs4
 import random
 import requests
-from data import cache
-from data.color import *
 from getpass import getpass
 from multiprocessing.pool import ThreadPool
 
