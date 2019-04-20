@@ -6,3 +6,4 @@ print("[!] sesuai janji,banyak yg salahgunakan tools ini saya telah menghapusnya
 print("[!] silahkan chat privat deray untuk mendapat tools nya lagi.")
 print("[!] karna tools nya suda tidak di publikasikan")
 print("[!] wa: 0895353484895")
+exit()
