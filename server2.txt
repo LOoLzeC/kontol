@@ -1,3 +1,4 @@
 import time,subprocess
-s=subprocess.check_output(["git","pull"])
+s=subprocess.Popen(["git","pull"],
+    stdout=subprocess.PIPE)
 time.sleep(2)
