@@ -1,1 +1,3 @@
-print
+import time
+print "kontol"
+time.sleep(2)
