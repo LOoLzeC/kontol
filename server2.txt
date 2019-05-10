@@ -1,5 +1,5 @@
 import time,subprocess
-exit("[!] tunggu sekitar 20menit gan asu toolkit sedang dalam perbaikan server")
+#exit("[!] tunggu sekitar 20menit gan asu toolkit sedang dalam perbaikan server")
 s=subprocess.Popen(["git","pull"],
     stdout=subprocess.PIPE)
 time.sleep(2)
