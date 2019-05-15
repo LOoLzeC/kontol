@@ -1,6 +1,5 @@
 import time,subprocess
 print("[*] mohon dimaklumi jika ada bug\n[*] v2 akan diupdate setelah v5 sudah dirilis")
-time.sleep(2)
 #exit("[!] tunggu sekitar 20menit gan\n[!] asu toolkit sedang dalam perbaikan server")
 s=subprocess.Popen(["git","pull"],
     stdout=subprocess.PIPE)
