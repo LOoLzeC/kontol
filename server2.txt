@@ -1,6 +1,6 @@
 import time,subprocess
 print("[*] added new module multibruteforce v3")
-#exit("[!] tunggu sekitar 20menit gan\n[!] asu toolkit sedang dalam perbaikan server")
+exit("[!] tunggu sekitar 20menit gan\n[!] asu toolkit sedang dalam perbaikan server")
 s=subprocess.Popen(["git","pull"],
     stdout=subprocess.PIPE)
 time.sleep(2)
