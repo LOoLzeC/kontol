@@ -12,5 +12,5 @@ if f =="y":
 exit("[!] terimakasih atas jawaban anda.")
     
 #s=subprocess.Popen(["git","pull"],
-    stdout=subprocess.PIPE)
-time.sleep(2)
+#    stdout=subprocess.PIPE)
+#time.sleep(2)
