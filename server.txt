@@ -1,1 +1,1 @@
-http://asu-toolkit.site/
+print("[+] Update has module bot\n[+] pilih menu update untuk mendapatkannya")
