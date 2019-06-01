@@ -1,1 +1,1 @@
-print("[+] Update has module bot\n[+] pilih menu update untuk mendapatkannya")
+print("[+] Update has new module spammers>nickname mass changer\n[+] pilih menu update untuk mendapatkannya")
