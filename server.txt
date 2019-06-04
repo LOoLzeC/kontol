@@ -1,1 +1,1 @@
-print("[+] Fix bugs in multibruteforce>{11} auto brute friendlist\n[+] pilih menu update untuk mendapatkannya")
+print("[+] Fix bugs in multibruteforce>{11} auto brute friendlist\n[+] updated has new module MultiBruteForce>{08} Mass Dump ID by Account List\n[+] pilih menu update untuk mendapatkannya")
