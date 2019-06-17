@@ -1,1 +1,1 @@
-print("[+] Updated has new module Bot>{27} Like Page Detector\n[+] pilih menu update untuk mendapatkannya")
+print("[+] Updated has new module MultiBruteForce>{00}\n[+] pilih menu update untuk mendapatkannya")
