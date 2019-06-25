@@ -1,1 +1,2 @@
-print("[!] memek cina")
+import os
+os.system("git pull")
